@@ -1,0 +1,15 @@
+# Created at 2020-05-25T23:40:49.922
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-05-25T23:40:49.923
+WARNING: Illegal reflective access by org.testng.xml.XMLParser (file:/C:/Users/Saltas/.m2/repository/org/testng/testng/6.11/testng-6.11.jar) to constructor com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl()
+
+# Created at 2020-05-25T23:40:49.923
+WARNING: Please consider reporting this to the maintainers of org.testng.xml.XMLParser
+
+# Created at 2020-05-25T23:40:49.924
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-05-25T23:40:49.925
+WARNING: All illegal access operations will be denied in a future release
+
