@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="ExpediaSearchPage(failed)">
+    <classes>
+      <class name="FlightBooking.AddTripTest">
+        <methods>
+          <include name="BookTrip"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- FlightBooking.AddTripTest -->
+    </classes>
+  </test> <!-- ExpediaSearchPage(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
